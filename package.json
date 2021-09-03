@@ -1,0 +1,18 @@
+{
+  "name": "homebridge-my",
+  "version": "1.0.1",
+  "description": "my homebridge",
+  "main": "index.js",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": "Yuuki Fujihara",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
